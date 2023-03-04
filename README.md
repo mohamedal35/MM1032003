@@ -2,7 +2,6 @@
 - 👀 I’m interested in development and penetration testing
 - 🌱 I’m currently improving my penetration testing skills
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://twitter.com/Mohamed10736752
 
 <!---
 MM1032003/MM1032003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
